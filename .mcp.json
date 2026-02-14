@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "cjspec": {
+      "command": "npx",
+      "args": [
+        "@cityjson/cj-mcp@latest"
+      ]
+    }
+  }
+}
