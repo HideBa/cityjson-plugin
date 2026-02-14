@@ -1,0 +1,18 @@
+{
+  "name": "cityjson",
+  "owner": {
+    "name": "Hidemichi Baba"
+  },
+  "metadata": {
+    "description": "Plugins by Hidemichi Baba",
+    "homepage": "https://github.com/HideBa/cityjson-plugin"
+  },
+  "plugins": [
+    {
+      "name": "cityjson",
+      "version": "0.1.0",
+      "source": "./plugin",
+      "description": "Comprehensive guide to CityJSON format, specification access"
+    }
+  ]
+}

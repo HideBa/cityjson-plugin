@@ -8,6 +8,12 @@ A comprehensive Claude Code plugin for working with CityJSON (3D city model form
 
 ## Installation
 
+```bash
+/plugin marketplace add https://github.com/HideBa/cityjson-plugin
+
+/plugin install cityjson
+```
+
 This plugin bundles the `@cityjson/cj-mcp` MCP server for specification access.
 
 ### Prerequisites
